@@ -1,1 +1,14 @@
+header a {
+    background-color: white;
+    color: lightslategray;
+}
 
+a {
+    text-decoration: none;
+    color: lightslategrey;
+    border: 3px solid lightslategray;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 10px 10px 10px;
+}
