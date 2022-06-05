@@ -4,7 +4,7 @@ header a {
 }
 
 header {
-    height: 200px;
+    height: 100px;
 }
 
 a {
@@ -17,7 +17,7 @@ a {
     padding: 5px 5px 5px 5px;
 }
 
-.grabli {
+.ananas {
     display: flex;
     justify-content: center;
     height: 25px;
