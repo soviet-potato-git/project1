@@ -20,6 +20,6 @@ a {
 .ananas {
     display: flex;
     justify-content: center;
-    height: 25px;
+    height: 125px;
     width: 120px;
 }
